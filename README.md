@@ -29,3 +29,10 @@ php artisan migrate:fresh --seed
 Usuario admin:
 email = admintest@admin.cl
 contraseña = password
+
+Nombre de la base de datos:
+laravelpractica
+
+User/pass de la base de datos:
+user = 'root'
+pass = ''
