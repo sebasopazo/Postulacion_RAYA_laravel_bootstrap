@@ -3,9 +3,10 @@ Landing page hecha en html + bootstrap y unido en laravel
 
 Una vez clonado el repositorio realizar:
 
-1)composer install
-2)renombrar env.example a .env
-3)crear la application key con el comando php artisan key:generate
+1)situarse en la carpeta del proyecto
+2)composer install
+3)renombrar env.example a .env
+4)crear la application key con el comando php artisan key:generate
 
 Inicializar XAMP (apache + mysql)
 
