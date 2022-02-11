@@ -18,3 +18,7 @@ php artisan db:seed
 Para regresar al estado inicial o freshstart usar comando:
 php artisan migrate:fresh --seed
 (borrara las tablas y creara todo denuevo ademas de poblar)
+
+Usuario admin:
+email = admintest@admin.cl
+contraseña = password
