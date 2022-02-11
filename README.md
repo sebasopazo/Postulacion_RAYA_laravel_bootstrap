@@ -1,6 +1,12 @@
 # Postulacion_RAYA_laravel_bootstrap
 Landing page hecha en html + bootstrap y unido en laravel
 
+Una vez clonado el repositorio realizar:
+
+1)composer install
+2)renombrar env.example a .env
+3)crear la application key con el comando php artisan key:generate
+
 Inicializar XAMP (apache + mysql)
 
 Para asegurar un buen funcionamiento de laravel usar comando:
